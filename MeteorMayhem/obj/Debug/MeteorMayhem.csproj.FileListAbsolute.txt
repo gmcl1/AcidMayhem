@@ -1,0 +1,11 @@
+C:\Users\Cronu\Desktop\Visual Studo Dev\MeteorMayhem\MeteorMayhem\MeteorMayhem\bin\Debug\MeteorMayhem.exe.config
+C:\Users\Cronu\Desktop\Visual Studo Dev\MeteorMayhem\MeteorMayhem\MeteorMayhem\bin\Debug\MeteorMayhem.exe
+C:\Users\Cronu\Desktop\Visual Studo Dev\MeteorMayhem\MeteorMayhem\MeteorMayhem\bin\Debug\MeteorMayhem.pdb
+C:\Users\Cronu\Desktop\Visual Studo Dev\MeteorMayhem\MeteorMayhem\MeteorMayhem\obj\Debug\MeteorMayhem.csproj.AssemblyReference.cache
+C:\Users\Cronu\Desktop\Visual Studo Dev\MeteorMayhem\MeteorMayhem\MeteorMayhem\obj\Debug\MeteorMayhem.csproj.SuggestedBindingRedirects.cache
+C:\Users\Cronu\Desktop\Visual Studo Dev\MeteorMayhem\MeteorMayhem\MeteorMayhem\obj\Debug\MeteorMayhem.Properties.Resources.resources
+C:\Users\Cronu\Desktop\Visual Studo Dev\MeteorMayhem\MeteorMayhem\MeteorMayhem\obj\Debug\MeteorMayhem.csproj.GenerateResource.cache
+C:\Users\Cronu\Desktop\Visual Studo Dev\MeteorMayhem\MeteorMayhem\MeteorMayhem\obj\Debug\MeteorMayhem.csproj.CoreCompileInputs.cache
+C:\Users\Cronu\Desktop\Visual Studo Dev\MeteorMayhem\MeteorMayhem\MeteorMayhem\obj\Debug\MeteorMayhem.exe
+C:\Users\Cronu\Desktop\Visual Studo Dev\MeteorMayhem\MeteorMayhem\MeteorMayhem\obj\Debug\MeteorMayhem.pdb
+C:\Users\Cronu\Desktop\Visual Studo Dev\MeteorMayhem\MeteorMayhem\MeteorMayhem\obj\Debug\MeteorMayhem.MeteorMayhem.resources
